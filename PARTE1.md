@@ -1,4 +1,4 @@
-# # 1ª Parte 
+# # 1ª Parte – Uma calculadora de alcance de anúncio online.
 
 ## Baseados em dados de análise de anúncios anteriores, a agência tem os seguintes dados:
 - a cada 100 pessoas que visualizam o anúncio 12 clicam nele.
