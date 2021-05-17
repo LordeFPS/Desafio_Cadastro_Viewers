@@ -20,5 +20,5 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Instalar a versão mais recente de Python [AQUI](https://www.python.org/downloads/)
 * Baixar a extensão do Python no VSCode 
 * Preferência usar o VSCode para rodar este código
-* Para rodar a Cálculadora entre na pasta parte1 e execute [calcularoda.py](calcularoda.py)
-* Para rodar o projeto entre na pasta parte2 e execute o [Parte2.py](Parte2.py)
+* Para rodar a Cálculadora entre na pasta parte1 e execute [calcularoda.py](parte1/calculadora.py)
+* Para rodar o projeto entre na pasta parte2 e execute o [Parte2.py](parte2/Parte2.py)
