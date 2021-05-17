@@ -8,7 +8,6 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 ### Requisitos do Projeto
 
 - 1ª Parte – Uma calculadora de alcance de anúncio online.[PARTE1](PARTE1.md)
@@ -18,6 +17,8 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de Python
-* Preferencia usar VSCode para rodar este código
-* Para rodar o projeto compile Parte2 dentro da pasta parte2.
+* Instalar a versão mais recente de Python [AQUI](https://www.python.org/downloads/)
+* Baixar a extensão do Python no VSCode 
+* Preferência usar o VSCode para rodar este código
+* Para rodar a Cálculadora entre na pasta parte1 e execute [calcularoda.py](calcularoda.py)
+* Para rodar o projeto entre na pasta parte2 e execute o [Parte2.py](Parte2.py)
