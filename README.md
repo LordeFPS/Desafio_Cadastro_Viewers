@@ -9,32 +9,19 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-### Ajustes e melhorias
+### Requisitos do Projeto
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- 1ª Parte – Uma calculadora de alcance de anúncio online.[PARTE1](parte1.md)
+- 2ª Parte - Um sistema de cadastro de anúncios.[PARTE2](parte2.md)
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de Python
-
-## ☕ Usando Desafio Cadastro Viewers
-
-Para usar Desafio Cadastro Viewers, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
 * Preferencia usar VSCode para rodar este código
 * Para rodar o projeto compile Parte2 dentro da pasta parte2.
-* 
+
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📝 Licença
