@@ -11,8 +11,8 @@
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 ### Requisitos do Projeto
 
-- 1ª Parte – Uma calculadora de alcance de anúncio online.[PARTE1](parte1.md)
-- 2ª Parte - Um sistema de cadastro de anúncios.[PARTE2](parte2.md)
+- 1ª Parte – Uma calculadora de alcance de anúncio online.[PARTE1](PARTE1.md)
+- 2ª Parte - Um sistema de cadastro de anúncios.[PARTE2](PARTE2.md)
 
 ## 💻 Pré-requisitos
 
