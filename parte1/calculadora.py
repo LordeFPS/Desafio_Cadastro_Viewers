@@ -10,42 +10,7 @@
 # TODO: O mesmo anúncio é compartilhado no máximo 4 vezes em sequência
 #       (1ª pessoa -> compartilha -> 2ª pessoa -> compartilha - > 
 #        3ª pessoa -> compartilha -> 4ª pessoa)
-#
-#  print(''' 
-#         a cada 100 pessoa 12 clicam no anuncio
-#         clicar_Anuncio      pessoa  
-#             12         ---   100
-#             20         ---    x = 167
-#         > precisa de 167 pessoas para ter 20 cliques      
-# 
-#         a cada 20 cliques 3 compartilham
-#         clicar_Anuncio     compartilha
-#             20         ---     3
-#         clicar_Anuncio ---     x 
-#
-#         a cada compartilhamento gera 40 novas pessoas
-#         compartilha      pessoa
-#             1       ---    40
-#             3       ---    x = 120
-#         > com 3 compartilhamentos gera 120 pessoas novas
-# 
-#         a cada R$1,00 investido 30 pessoas veem o anuncio "NÃO COMPARTILHADO"
-#             preco            pessoas
-#             1,00        ---    30
-#         valor_investido ---    x 
-#         >valor investido gera x visualizacoes
-#
-#          o mesmo anuncio é compartilhado ate 4 vezes seguidas. 
-#  ''')
-#
-# pessoa_inicial = 0
-# pessoa_nova = 0
-# total_compartilha = 0
-# clicar_Anuncio = 0
-# compartilha = 0
 
-# TODO: Função que calcula o valor pago e gera a quantidade
-# de visualizações aproximado
 def calculador_vizualiza(valor_pago):
     # TODO: Condições que foram pedidas no desafio
     # A cada R$1,00 gera 30 pessoas 
